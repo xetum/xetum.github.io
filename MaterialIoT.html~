@@ -100,7 +100,7 @@ mencionats.-->
 <p>Convé portar com a mínim a partir del primer dia de classe el <em>Kit Raspberry Pi 3B+</em> i cables dupont. <!--i protoboard per els que programeu el display. Apart
 del material de l'assignatura que es deixa en hores de Lab, tindré 3 *PN532
 NFC Precise RFID* a la venda (7€).--> El nombre d'alumnes del Lab PBE telemàtica està limitat a 20 places.</p>
-<p>L'enunciat del projecte es troba <a href="course_manager.pdf">aquí</a></p>
+<p>L'enunciat del projecte es troba <a href="http://soft0.upc.es/~francesc/pbe/course_manager.pdf">aquí</a></p>
 <p>A continuació un vídeo de presentació del curs T20:</p>
 <video width="600" controls style="display:block;margin:auto;">
 <source src="presentacio_PBE.webm" type="video/webm">
